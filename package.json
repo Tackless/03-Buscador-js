@@ -1,0 +1,14 @@
+{
+  "name": "03-buscardor-js",
+  "version": "1.0.0",
+  "description": "Buscador con js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Donovan Eliosa",
+  "license": "ISC"
+}
